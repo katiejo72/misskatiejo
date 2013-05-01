@@ -1,0 +1,27 @@
+body {
+	background-color: #48433a;
+}
+
+a {
+	color: #ffffff;
+}
+
+a#home {
+	text-decoration: none;
+}
+
+h1{
+	color: #ffffff;
+}
+
+h2{
+	color: #ffffff;
+}
+
+p{
+	color: #ffffff;
+}
+
+.highlight {
+	color: #22bf2d;
+}
