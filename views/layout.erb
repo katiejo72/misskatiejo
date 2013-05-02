@@ -4,13 +4,13 @@
 	<link rel="stylesheet" href="css/kj.css">
 </head>
 <body>
-	<h1><a id="home" href="/">Katie Jo</a></h1><br>
-	<%= yield %>
-	<br><br>
+	<h1 id="home"><a id="home" href="/">Katie Jo</a></h1><br>
 	<a href="<%=url('/about')%>">Some Stuff About Me</a><br>
 	<a href="/photography">I Take Pictures</a><br>
 	<a href="/geekiness">I Am A Geek (Not A Nerd)</a><br>
 	<a href="/musics">I LIKE Music</a><br>
 	<a href="/playtime">Playing With Stuff</a><br>
+	<br>
+	<%= yield %>
 </body>
 </html>
