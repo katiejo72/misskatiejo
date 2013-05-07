@@ -8,9 +8,42 @@
 	"buffers":
 	[
 		{
+			"file": "public/css/kj.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/layout.erb",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/photography.erb",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/playtime.erb",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/about.erb",
+			"settings":
+			{
+				"buffer_size": 878,
 				"line_ending": "Windows"
 			}
 		}
@@ -39,7 +72,16 @@
 	},
 	"file_history":
 	[
+		"/D/Developer Stuffs/Ruby Stuff/website/public/css/kj.css",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/layout.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/index.rb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/index.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/about.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/geekiness.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/musics.erb",
+		"/D/Developer Stuffs/Ruby Stuff/website/views/playtime.erb",
 		"/D/Developer Stuffs/Ruby Stuff/website/.gitignore",
+		"/D/Developer Stuffs/Ruby Stuff/website/kj.sublime-project",
 		"/D/Developer Stuffs/Ruby Stuff/Fibonacci.rb",
 		"/D/Developer Stuffs/Ruby Stuff/multiples.rb",
 		"/D/Developer Stuffs/Ruby Stuff/index.rb",
@@ -95,27 +137,133 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "public/css/kj.css",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 572,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								180,
+								180
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/layout.erb",
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/photography.erb",
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/playtime.erb",
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/about.erb",
+					"settings":
+					{
+						"buffer_size": 878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -182,6 +330,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 164.0,
 	"status_bar_visible": true
 }

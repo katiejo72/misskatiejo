@@ -10,8 +10,31 @@ a#home {
 	text-decoration: none;
 }
 
+a#menu {
+	display: block;
+	width: 180px;
+	text-decoration: none;
+	text-align: center;
+	font-family: "Calibri";
+	padding: 2px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	color: #22bf2d;
+	display: inline-block;
+}
+
 h1{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 h1#home {
@@ -21,28 +44,32 @@ h1#home {
 
 h2{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 h3{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 h4{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 h5{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 h6{
 	color: #ffffff;
+	font-family: "Calibri";
 }
-
-
 
 p{
 	color: #ffffff;
+	font-family: "Calibri";
 }
 
 .highlight {
