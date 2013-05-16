@@ -10,7 +10,7 @@ a#home {
 	text-decoration: none;
 }
 
-a#menu {
+#menu a {
 	display: block;
 	width: 180px;
 	text-decoration: none;
@@ -19,22 +19,28 @@ a#menu {
 	padding: 2px;
 }
 
-ul {
+ul#menu {
+	text-align: center;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
 }
 
-li {
-	float: left;
-	color: #22bf2d;
+#menu li {
 	display: inline-block;
+	border-left-style: solid;
+	border-color: #22bf2d;
+	border-width: 1px;
+}
+
+#menu li.last {
+	border-right-style: solid;
 }
 
 h1{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 h1#home {
@@ -45,31 +51,37 @@ h1#home {
 h2{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 h3{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 h4{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 h5{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 h6{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 p{
 	color: #ffffff;
 	font-family: "Calibri";
+	text-align: center;
 }
 
 .highlight {

@@ -11,7 +11,7 @@
 			"file": "public/css/kj.css",
 			"settings":
 			{
-				"buffer_size": 572,
+				"buffer_size": 904,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "views/layout.erb",
 			"settings":
 			{
-				"buffer_size": 495,
+				"buffer_size": 476,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +43,15 @@
 			"file": "views/about.erb",
 			"settings":
 			{
-				"buffer_size": 878,
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.rb",
+			"settings":
+			{
+				"buffer_size": 531,
 				"line_ending": "Windows"
 			}
 		}
@@ -106,7 +114,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -120,6 +128,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"width",
+			"solid"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -137,7 +147,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -145,20 +155,21 @@
 					"file": "public/css/kj.css",
 					"settings":
 					{
-						"buffer_size": 572,
+						"buffer_size": 904,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								180,
-								180
+								310,
+								310
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -171,15 +182,15 @@
 					"file": "views/layout.erb",
 					"settings":
 					{
-						"buffer_size": 495,
+						"buffer_size": 476,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								432,
-								432
+								437,
+								437
 							]
 						],
 						"settings":
@@ -250,20 +261,47 @@
 					"file": "views/about.erb",
 					"settings":
 					{
-						"buffer_size": 878,
+						"buffer_size": 924,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								96
+								573,
+								573
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.rb",
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
