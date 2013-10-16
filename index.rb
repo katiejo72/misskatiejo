@@ -27,7 +27,7 @@ class MySite < Sinatra::Base
 	end
 	
 	get '/playtime' do
-		@title = "Katie Jo - Playing With Ruby"
+		@title = "Katie Jo - Playing With Programming"
 		erb :playtime
 	end
 
